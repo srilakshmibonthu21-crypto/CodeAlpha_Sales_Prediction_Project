@@ -1,0 +1,11 @@
+Requirements
+
+Python 3.x
+
+Libraries Used:
+- scikit-learn
+- matplotlib
+
+Modules:
+- LinearRegression
+- pyplot
